@@ -11,7 +11,7 @@ It contains one README file, one index.html file and one image.
 First, clone the project. 
 (Here's the link you got from your repo.)
 
-git clone https://github.com/kalawaja/firstrepo.git`
+git clone `https://github.com/kalawaja/firstrepo.git`
 
 ## Usage 
 
