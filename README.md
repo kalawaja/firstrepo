@@ -9,7 +9,7 @@ It contains one README file, one index.html file and one image.
 ## Installiation
 
 First, clone the project. 
-(Here's the link you got from your repo.)
+(*Here's the link you got from your repo.*)
 
 git clone `https://github.com/kalawaja/firstrepo.git`
 
